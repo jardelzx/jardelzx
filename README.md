@@ -1,7 +1,7 @@
 ### Olá! 👋💻
 
 Meu nome é Jardel Reyes, um desenvolvedor apaixonado por tecnologia e programação. Estou sempre em busca de maneiras inovadoras de resolver problemas e melhorar sistemas. Gosto de trabalhar em projetos que envolvem desenvolvimento web e integração de tecnologias, e estou constantemente aprendendo e expandindo minhas habilidades. 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tecnologias e ferramentas</b>
+## <b> Tecnologias e ferramentas</b><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
 <br>
 
 <!-- 
