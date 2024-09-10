@@ -7,7 +7,7 @@ Meu nome √© Jardel Reyes, um desenvolvedor apaixonado por tecnologia e programa√
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,python,bootstrap,figma,mysql,laravel,php&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,bootstrap,figma,mysql,typescript&perline=14" />
   </a>
 </p>
 
@@ -17,7 +17,7 @@ Meu nome √© Jardel Reyes, um desenvolvedor apaixonado por tecnologia e programa√
   <a href="https://br.linkedin.com/in/jardel-dias-martins-reyes-8ab964300" target="blank">
     <img align="center" src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/>
   </a>
-  <a href="mailto:jardelrodrigues1222@gmail.com" target="blank">
+  <a href="mailto:jardel.reyes@stellantis.com" target="blank">
     <img align="center" src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="30"/>
   </a>
 </p>
