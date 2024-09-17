@@ -7,7 +7,7 @@ Meu nome √© Jardel Reyes, um desenvolvedor apaixonado por tecnologia e programa√
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,python,bootstrap,figma,mysql,typescript,Cs&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,bootstrap,figma,mysql,typescript,C&perline=14" />
   </a>
 </p>
 
